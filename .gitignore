@@ -1,0 +1,17 @@
+# Environment — never commit secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.Python
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
